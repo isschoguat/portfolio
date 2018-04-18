@@ -5,3 +5,6 @@ portfolio project Udacity Course
  * Course: Full Stack Web Developer Nanodegree Program
  
  ## <center>What is this project for?
+ 
+ This is a personal portfolio website,
+ in HTML and CSS
